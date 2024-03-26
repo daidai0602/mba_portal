@@ -1,0 +1,13 @@
+body {
+  background-color: #dcc0a6;
+}
+.title {
+  text-align: center;
+  font-style: 34px;
+}
+.threadWrapper {
+  background-color: #f3eded;
+  padding: 10px;
+  max-width: 1300px;
+  margin: 0px auto;
+}
